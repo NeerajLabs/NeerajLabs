@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeerajLabs
+- 👋 Hi, I’m B Neeraj Kumar
 - 👀 I’m interested in Hardware and Technology
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on Destop,DSA
